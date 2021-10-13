@@ -13,8 +13,8 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/realm/realm-cocoa", 
-            .upToNextMajor(from: "10.7.2")
+            url: "https://github.com/realm/realm-cocoa",
+            .upToNextMinor(from: "10.7.2")
         )
     ],
     targets: [

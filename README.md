@@ -12,7 +12,7 @@
 
 IceCream helps you sync Realm Database with CloudKit.
 
-> It works like magic!
+> It works like magic!!
 
 ## Features
 
